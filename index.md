@@ -16,4 +16,4 @@ Through our outreach activities, training workshops, and mapping events, we deve
 Contributors can form Remote Digitizing (ReDi) teams to respond to calls for mapping assistance for use in humanitarian aid and development, especially during  disasters and critical events, to help on-the-ground responders help better. The concept of becoming _digital_ humanitarians, and volunteering and offering their time and skills, are just as valuable as offering money or goods for aid.
 
 ## Say hello
-Got a question, or ideas in mind? Send us a [Telegram](https:/t.me/mapamore), or email mapamore AT ngnuity DOT xyz
+Got a question, or ideas in mind? Send us a [Telegram](https:/t.me/mapamore), an email mapamore AT ngnuity DOT xyz, or send us a [Twit](https://twitter.com/MapAmorePH).
