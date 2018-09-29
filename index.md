@@ -1,10 +1,12 @@
 
-# The MapAmore Initiative
-The MapAm💗re Initiative is a social advocacy promoting civic engagement , resilience, and volunteerism through  innovative use of Free and Open software, especially spatial data,  for equitable peace,  sustainable development, humanitarian action, and social change. We facilitate opportunities for tangible action and participate in ongoing community service projects and service learning engagements.
+Maps help learners understand the world and think like global citizens. Taking part in mapping activities and events, participants aquire or reinforce basic knowledge and elementary skills in geography, neo-cartography, and information technology. Recurring participation may enhance initial interest and knowledge that could lead toward a broader career development.
 
-Our various outreach themes are intended to be learning and engagement opportunities to jumpstart work with MapAm💗re collaborators,  and affiliates on promoting awareness, planning events and media outreach to strengthen community preparedness at the municipal and village level.
+## The MapAmore Initiative
+The MapAm💜re Initiative is a social advocacy promoting civic engagement , resilience, and volunteerism through  innovative use of Free and Open software, especially spatial data,  for equitable peace,  sustainable development, humanitarian action, and social change. We facilitate opportunities for tangible action and participate in ongoing community service projects and service learning engagements.
 
-Local MapAm💗re affiliates and partners may contact local representatives from the organizations below to learn how the community can benefit from involvement, reach out to citizens about participation, and involve the local media in distributing information on these events. These events will help raise awareness for local MapAm💗re activities and ultimately increase community preparedness, training and volunteer participation.
+Our various outreach themes are intended to be learning and engagement opportunities to jumpstart work with MapAm💜re collaborators,  and affiliates on promoting awareness, planning events and media outreach to strengthen community preparedness at the municipal and village level.
+
+Local MapAm💜re affiliates and partners may contact local representatives from the organizations below to learn how the community can benefit from involvement, reach out to citizens about participation, and involve the local media in distributing information on these events. These events will help raise awareness for local MapAm💜re activities and ultimately increase community preparedness, training and volunteer participation.
 
 ## Crazy about LoCos
 We are crazy about Local Communities (LoCo). At the heart of every mapping project are contributors - who normally prioritize mapping their own neighborhoods and communities first.
